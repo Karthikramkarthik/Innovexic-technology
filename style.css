@@ -67,6 +67,10 @@ p {
 }
 
 /* Desktop */
+a.back {
+    color: #F75567;
+    text-decoration: underline;
+}
 .inner_grid:hover{
     background: #F75567;
 }
