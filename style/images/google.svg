@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="144" height="144" viewBox="0 0 144 144">
+  <defs>
+    <clipPath id="clip-google">
+      <rect width="144" height="144"/>
+    </clipPath>
+  </defs>
+  <g id="google" clip-path="url(#clip-google)">
+    <path id="Icon_awesome-google" data-name="Icon awesome-google" d="M124.839,65.489c0,36.2-24.789,61.959-61.4,61.959a63.443,63.443,0,0,1,0-126.885,61.011,61.011,0,0,1,42.542,16.6l-17.268,16.6c-22.589-21.8-64.594-5.423-64.594,30.238,0,22.128,17.677,40.061,39.319,40.061,25.121,0,34.535-18.01,36.019-27.347H63.443V54.9h60.4A55.617,55.617,0,0,1,124.839,65.489Z" transform="translate(10 8.438)" fill="#fff"/>
+  </g>
+</svg>
