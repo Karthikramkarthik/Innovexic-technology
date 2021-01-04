@@ -67,6 +67,11 @@ p {
 }
 
 /* Desktop */
+.no_width{
+    width: auto !important;
+    height: auto !important;
+    line-height: normal !important;
+}
 a.back {
     color: #F75567;
     text-decoration: underline;
@@ -853,6 +858,10 @@ img.allplayers {
     }
     .tabs:hover{
         background: #3C3F50;
+    }
+    a.back {
+        color: #F75567;
+        text-decoration: underline;
     }
   }
 
